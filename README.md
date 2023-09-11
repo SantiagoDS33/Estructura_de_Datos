@@ -11,7 +11,7 @@ Este repositorio es para la materia de estructura y organizacion de datos.
 
  #### 1. Fundamentos de estructura de datos       
         
-        1.1 Definicion    
+1.1 Definicion    
         
         1.2 Clasificacion  
         
