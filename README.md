@@ -16,10 +16,10 @@ Este repositorio es para la materia de estructura y organizacion de datos.
     1.4 Estructuras dinamicas y estáticas  
 
 2. Estrucuras lineales  
-    2.1 Listas
-    2.2 Pilas estáticas y dinámicas 
-    2.3 Colas estáticas y dinámicas 
-    2.4 Aplicaciones
+    2.1 Listas  
+    2.2 Pilas estáticas y dinámicas   
+    2.3 Colas estáticas y dinámicas   
+    2.4 Aplicaciones  
 
 3. Estructuras no lineales  
     3.1 Recursividad  
