@@ -5,6 +5,7 @@
 ### Eduardo Flores Gallegos.
 
 Este repositorio es para la materia de estructura y organizacion de datos.
+<<<<<<< HEAD
 
 ## Temario 
 
@@ -29,3 +30,8 @@ Este repositorio es para la materia de estructura y organizacion de datos.
     4.1 Algoritmos de ordenamiento
     4.2 Métodos de busqueda 
     4.3 Recuperación de datos
+=======
+
+## Temario 
+
+>>>>>>> 61fa44bdf235a3be41aa6ca3f7d103a1813cdbdc
