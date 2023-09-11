@@ -1,9 +1,10 @@
 # Estructura_de_Datos.
 
-#Carrera: Ing. Tecnologias de la Informacion y la Comunicacion.
+## Ing. Tecnologias de la Informacion y la Comunicacion.
 
-#Docente: Eduardo Flores Gallegos.
+### Eduardo Flores Gallegos.
 
-#Alumno: Nahum Santiago Espinoza Herrera.
+Este repositorio es para la materia de estructura y organizacion de datos.
 
-#Semestre: 3
+## Temario 
+
