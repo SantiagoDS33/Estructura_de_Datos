@@ -11,16 +11,16 @@ Este repositorio es para la materia de estructura y organizacion de datos.
 
  #### 1. Fundamentos de estructura de datos       
         
-  1.1 Definicion    
+        1.1 Definicion    
         
-  1.2 Clasificacion  
+        1.2 Clasificacion  
         
-  1.3 Estructuras lineales y non lineales  
+        1.3 Estructuras lineales y non lineales  
         
-  1.4 Estructuras dinamicas y estáticas  
+        1.4 Estructuras dinamicas y estáticas  
 
  #### 2. Estrucuras lineales    
-        s2.1 Listas  
+        2.1 Listas  
         2.2 Pilas estáticas y dinámicas   
         2.3 Colas estáticas y dinámicas   
         2.4 Aplicaciones  
